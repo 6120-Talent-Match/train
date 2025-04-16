@@ -59,7 +59,8 @@ Key features:
 - Max sequence length of 8096 tokens
 
 You can review the full notebook-based training pipeline here:
-📓 [`CS_6120_Final_Project_Pipeline.ipynb`](./CS_6120_Final_Project_Pipeline.ipynb)
+ - 📓 [`CS_6120_Final_Project_Pipeline.ipynb`](./CS_6120_Final_Project_Pipeline.ipynb), or
+ - 📓 [`Colab - CS_6120_Final_Project_Pipeline.ipynb`](https://colab.research.google.com/drive/1MwYfYUvMAcHUyePIMljTTLD-lVSmc97R?usp=sharing)
 
 ---
 
@@ -95,6 +96,7 @@ The model will output JSON with the following structure:
 - 🤗 Model: [resume-reader-best](https://huggingface.co/C0ldSmi1e/resume-reader-best)
 - 🤗 Dataset: [resume-dataset](https://huggingface.co/datasets/C0ldSmi1e/resume-dataset)
 - 🧪 Notebook: [`CS_6120_Final_Project_Pipeline.ipynb`](./CS_6120_Final_Project_Pipeline.ipynb)
+- 🧪 Notebook (Colab): [`CS_6120_Final_Project_Pipeline.ipynb`](https://colab.research.google.com/drive/1MwYfYUvMAcHUyePIMljTTLD-lVSmc97R?usp=sharing)
 
 ---
 
