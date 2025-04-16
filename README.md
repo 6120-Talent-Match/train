@@ -53,21 +53,3 @@ def preprocess(examples):
 
 tokenized_dataset = dataset.map(preprocess, batched=True)
 ```
-
-## License
-
-[Insert appropriate license information here]
-
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```
-@dataset{resume_dataset,
-  author    = {Your Name},
-  title     = {Resume Dataset},
-  year      = {2023},
-  publisher = {Hugging Face},
-  url       = {https://huggingface.co/datasets/C0ldSmi1e/resume-dataset}
-}
-``` 
