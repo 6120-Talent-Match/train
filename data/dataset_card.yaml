@@ -1,0 +1,21 @@
+
+---
+dataset_info:
+  features:
+    - name: id
+      dtype: string
+    - name: category
+      dtype: string 
+    - name: skills
+      dtype: string
+    - name: education
+      dtype: string
+    - name: experience
+      dtype: string
+  splits:
+    - name: train
+      num_examples: auto
+    - name: eval
+      num_examples: 200
+  config_name: default
+---
